@@ -1,3 +1,5 @@
-
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="48" height="48">
-<img src="http://cdn.w3.org/github/181717" alt="github" width="48" height="48">
+<p align="center">
+<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="48" height="48">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="48" height="48">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48">
+</p>
