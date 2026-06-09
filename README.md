@@ -1,6 +1,11 @@
+네트워크 엔지니어링 준비하는 취업준비생입니다.
+
+
+SKILLS
 <p align="center">
 <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="48" height="48">&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco" width="48" height="48">&nbsp;&nbsp;
 </p>
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)]([https://hits.seeyoufarm.com](https://github.com/KSNAM97))                    
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KSNAM97.KSNAM97)](https://github.com/KSNAM97)                
+![KISUK NAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSNAM97&theme=dark&show_icons=true)
