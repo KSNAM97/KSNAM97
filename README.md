@@ -26,7 +26,8 @@
 ---
 
 ## 🛠 Tech Stack
-
+<div align="center">
+  
 **🌐 Networking**  
 ![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -37,7 +38,7 @@
 
 **🔧 Tools & Collaboration**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+</div>
 ---
 
 ### 📌 Featured Labs
