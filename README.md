@@ -46,9 +46,9 @@
 <!-- REPO-LIST:START -->
 <div align="center">
 
-<a href="https://github.com/KSNAM97/Cisco-Switch-L3-Study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=Cisco-Switch-L3-Study&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=450" /></a> <a href="https://github.com/KSNAM97/CISCO-SWITCH-L2STUDY"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=CISCO-SWITCH-L2STUDY&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=450" /></a>
+<a href="https://github.com/KSNAM97/Cisco-Switch-L3-Study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=Cisco-Switch-L3-Study&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=400" /></a> <a href="https://github.com/KSNAM97/CISCO-SWITCH-L2STUDY"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=CISCO-SWITCH-L2STUDY&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=400" /></a>
 
-<a href="https://github.com/KSNAM97/EIGRP-Multi-ISP-Network"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=EIGRP-Multi-ISP-Network&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=450" /></a> <a href="https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=OSPF-ACL-Multi-ISP-Network&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=450" /></a>
+<a href="https://github.com/KSNAM97/EIGRP-Multi-ISP-Network"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=EIGRP-Multi-ISP-Network&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=400" /></a> <a href="https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=OSPF-ACL-Multi-ISP-Network&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=400" /></a>
 
 </div>
 <!-- REPO-LIST:END -->
