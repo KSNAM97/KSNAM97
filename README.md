@@ -42,8 +42,6 @@
 ### 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSNAM97&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com?user=KSNAM97&theme=dark&hide_border=true)
-
-
 ---
 
 ### 📫 Visitors
