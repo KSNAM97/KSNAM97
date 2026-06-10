@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 permissions:
   contents: write
@@ -16,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Build README repo cards
         env:
@@ -85,5 +86,6 @@ jobs:
           git add README.md
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "chore: auto-update repo cards"
-          git pull --rebase origin main
-          git push
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
