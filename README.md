@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm KSNAM97
+# 👋 Hi there, I'm KiSukNam
 
 ### 🌐 Aspiring Network Engineer | 네트워크 엔지니어 지망생
 
