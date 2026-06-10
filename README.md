@@ -40,9 +40,9 @@
 ---
 
 ### 📊 GitHub Stats
-
-![KISUK NAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSNAM97&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSNAM97&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com?user=KSNAM97&theme=dark&hide_border=true)
+
 
 ---
 
