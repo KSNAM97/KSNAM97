@@ -46,7 +46,8 @@ jobs:
                   f'<a href="https://github.com/{user}/{name}">'
                   f'<img width="100%" '
                   f'src="https://github-readme-stats.vercel.app/api/pin/'
-                  f'?username={user}&repo={name}&theme={theme}" /></a>'
+                  f'?username={user}&repo={name}'
+                  f'&theme={theme}&hide_border=true&bg_color=0d1117" /></a>'
               )
               cells.append(card)
 
