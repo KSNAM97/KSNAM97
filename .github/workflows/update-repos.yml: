@@ -1,0 +1,87 @@
+name: Update Repo Cards
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 6시간마다
+  workflow_dispatch:         # 수동 실행 버튼
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build README repo cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER: KSNAM97
+          THEME: github_dark
+        run: |
+          python3 - <<'PYEOF'
+          import json, os, re, subprocess
+
+          user  = os.environ["USER"]
+          theme = os.environ["THEME"]
+
+          # gh CLI로 public 리포 목록(JSON) 가져오기
+          raw = subprocess.check_output(
+              ["gh", "api", f"users/{user}/repos?sort=updated&per_page=100"],
+              text=True,
+          )
+          repos = json.loads(raw)
+
+          # fork 제외, 프로필 리포(KSNAM97/KSNAM97) 제외
+          names = [
+              r["name"] for r in repos
+              if not r["fork"] and r["name"] != user
+          ]
+
+          # 2열로 카드 배치
+          lines, row = [], []
+          for name in names:
+              card = (
+                  f"[![{name}]"
+                  f"(https://github-readme-stats.vercel.app/api/pin/"
+                  f"?username={user}&repo={name}&theme={theme})]"
+                  f"(https://github.com/{user}/{name})"
+              )
+              row.append(card)
+              if len(row) == 2:
+                  lines.append(" ".join(row))
+                  row = []
+          if row:
+              lines.append(" ".join(row))
+
+          cards = "\n\n".join(lines) if lines else "_아직 표시할 리포가 없습니다._"
+
+          # README의 마커 사이 교체
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          block = "<!-- REPO-LIST:START -->\n" + cards + "\n<!-- REPO-LIST:END -->"
+          new_content = re.sub(
+              r"<!-- REPO-LIST:START -->.*?<!-- REPO-LIST:END -->",
+              block,
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print("Updated cards for:", names)
+          PYEOF
+
+      - name: Commit & Push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: auto-update repo cards"
+          git push
