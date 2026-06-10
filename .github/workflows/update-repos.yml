@@ -40,7 +40,7 @@ jobs:
               if not r["fork"] and r["name"] != user
           ]
 
-                  cells = []
+          cells = []
           for name in names:
               card = (
                   f'<a href="https://github.com/{user}/{name}">'
@@ -59,7 +59,6 @@ jobs:
               cards = "<table>\n" + "\n".join(rows) + "\n</table>"
           else:
               cards = "_아직 표시할 리포가 없습니다._"
-
 
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
