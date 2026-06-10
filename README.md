@@ -20,9 +20,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-**Networking**
 ## 🛠 Tech Stack
 
 **🌐 Networking**  
