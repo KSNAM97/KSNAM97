@@ -44,10 +44,11 @@
 <div align="center">
 
 <!-- REPO-LIST:START -->
-<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border:none;border-collapse:collapse;">
-<tr><td width="50%" valign="top" style="border:none;padding:6px;"><a href="https://github.com/KSNAM97/Cisco-Switch-L3-Study"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=Cisco-Switch-L3-Study&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a></td><td width="50%" valign="top" style="border:none;padding:6px;"><a href="https://github.com/KSNAM97/CISCO-SWITCH-L2STUDY"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=CISCO-SWITCH-L2STUDY&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a></td></tr>
-<tr><td width="50%" valign="top" style="border:none;padding:6px;"><a href="https://github.com/KSNAM97/EIGRP-Multi-ISP-Network"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=EIGRP-Multi-ISP-Network&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a></td><td width="50%" valign="top" style="border:none;padding:6px;"><a href="https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=OSPF-ACL-Multi-ISP-Network&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a></td></tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/KSNAM97/Cisco-Switch-L3-Study"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=Cisco-Switch-L3-Study&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a>&nbsp;<a href="https://github.com/KSNAM97/CISCO-SWITCH-L2STUDY"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=CISCO-SWITCH-L2STUDY&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a><br><br><a href="https://github.com/KSNAM97/EIGRP-Multi-ISP-Network"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=EIGRP-Multi-ISP-Network&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a>&nbsp;<a href="https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=OSPF-ACL-Multi-ISP-Network&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a>
+
+</div>
 <!-- REPO-LIST:END -->
 
 </div>
