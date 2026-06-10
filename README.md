@@ -36,6 +36,13 @@
 **🔧 Tools & Collaboration**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+### 📌 Featured Labs
+<!-- REPO-LIST:START -->
+<!-- 여기는 Action이 자동으로 채웁니다 -->
+<!-- REPO-LIST:END -->
+
 
 ---
 
