@@ -2,8 +2,8 @@ name: Update Repo Cards
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 6시간마다
-  workflow_dispatch:         # 수동 실행 버튼
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
   push:
     branches: [ main ]
 
@@ -29,20 +29,17 @@ jobs:
           user  = os.environ["USER"]
           theme = os.environ["THEME"]
 
-          # gh CLI로 public 리포 목록(JSON) 가져오기
           raw = subprocess.check_output(
               ["gh", "api", f"users/{user}/repos?sort=updated&per_page=100"],
               text=True,
           )
           repos = json.loads(raw)
 
-          # fork 제외, 프로필 리포(KSNAM97/KSNAM97) 제외
           names = [
               r["name"] for r in repos
               if not r["fork"] and r["name"] != user
           ]
 
-          # 2열로 카드 배치
           lines, row = [], []
           for name in names:
               card = (
@@ -60,7 +57,6 @@ jobs:
 
           cards = "\n\n".join(lines) if lines else "_아직 표시할 리포가 없습니다._"
 
-          # README의 마커 사이 교체
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
 
