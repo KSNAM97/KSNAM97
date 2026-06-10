@@ -58,7 +58,7 @@ jobs:
                   pair = cells[i:i+2]
                   tds = "".join(f'<td width="50%" valign="top">{c}</td>' for c in pair)
                   rows.append(f"<tr>{tds}</tr>")
-              cards = "<table>\n" + "\n".join(rows) + "\n</table>"
+              cards = '<table border="0" cellspacing="0" cellpadding="8">\n' + "\n".join(rows) + "\n</table>"
           else:
               cards = "_아직 표시할 리포가 없습니다._"
 
