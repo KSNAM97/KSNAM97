@@ -18,6 +18,8 @@
 
 <br>
 
+</div>
+
 ---
 
 ## 🛠 Tech Stack
@@ -35,10 +37,7 @@
 
 ---
 
-
 ### 📌 Featured Labs
-
-<div align="center">
 
 <!-- REPO-LIST:START -->
 <div align="center">
@@ -48,19 +47,24 @@
 </div>
 <!-- REPO-LIST:END -->
 
-</div>
-
-
 ---
 
 ### 📊 GitHub Stats
+
+<div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSNAM97&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com?user=KSNAM97&theme=dark&hide_border=true)
-![](./profile-3d-contrib/profile-night-rainbow.svg) 
+
+![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
 
 ---
 
 ### 📫 Visitors
+
+<div align="center">
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KSNAM97.KSNAM97&style=for-the-badge)
 
