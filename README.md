@@ -22,8 +22,15 @@
 
 ### 🛠️ Tech Stack
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-009444?style=for-the-badge&logoColor=white)
+**Networking**
+![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Network Simulation & Labs**
+![GNS3](https://img.shields.io/badge/GNS3-008000?style=for-the-badge&logo=gns3&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Tools & Collaboration**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
