@@ -45,11 +45,10 @@ jobs:
           for name in names:
               card = (
                   f'<a href="https://github.com/{user}/{name}">'
-                  f'<img '
+                  f'<img width="100%" '
                   f'src="https://github-readme-stats.vercel.app/api/pin/'
                   f'?username={user}&repo={name}'
-                  f'&theme={theme}&hide_border=true&bg_color=0d1117'
-                  f'&card_width=400" /></a>'
+                  f'&theme={theme}&hide_border=true&bg_color=0d1117" /></a>'
               )
               cells.append(card)
 
@@ -57,8 +56,10 @@ jobs:
               rows = []
               for i in range(0, len(cells), 2):
                   pair = cells[i:i+2]
-                  rows.append(" ".join(pair))
-              cards = '<div align="center">\n\n' + "\n\n".join(rows) + "\n\n</div>"
+                  tds = "".join(f'<td width="50%" valign="top">{c}</td>' for c in pair)
+                  rows.append(f"<tr>{tds}</tr>")
+              cards = ('<table border="0" cellspacing="0" cellpadding="10" width="100%">\n'
+                       + "\n".join(rows) + "\n</table>")
           else:
               cards = "_아직 표시할 리포가 없습니다._"
 
