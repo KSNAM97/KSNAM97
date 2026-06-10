@@ -1,0 +1,68 @@
+name: Update Repo Cards
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 6시간마다 실행
+  workflow_dispatch:         # Actions 탭에서 수동 실행 가능
+  push:
+    branches: [ main ]       # README.md 등 push 시에도 실행
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate repo cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          USER=KSNAM97
+
+          # fork 아닌 public 리포를, 자기 자신(KSNAM97 프로필 리포)은 제외하고 최근 업데이트순으로 수집
+          REPOS=$(gh api "users/$USER/repos?sort=updated&per_page=100" \
+            --jq ".[] | select(.fork==false) | select(.name!=\"$USER\") | .name")
+
+          # 2개씩 한 줄에 배치
+          CARDS=""
+          COUNT=0
+          for repo in $REPOS; do
+            CARDS="${CARDS}[![${repo}](https://github-readme-stats.vercel.app/api/pin/?username=${USER}&repo=${repo}&theme=github_dark)](https://github.com/${USER}/${repo})"
+            COUNT=$((COUNT+1))
+            if [ $((COUNT % 2)) -eq 0 ]; then
+              CARDS="${CARDS}\n\n"
+            else
+              CARDS="${CARDS} "
+            fi
+          done
+
+          # 마커 사이 교체
+          python3 - <<'PYEOF'
+          import re, os
+          cards = os.environ["CARDS_CONTENT"].strip()
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+          new_block = "<!-- REPO-LIST:START -->\n" + cards + "\n<!-- REPO-LIST:END -->"
+          content = re.sub(
+              r"<!-- REPO-LIST:START -->.*?<!-- REPO-LIST:END -->",
+              new_block,
+              content,
+              flags=re.DOTALL,
+          )
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          PYEOF
+        # CARDS 변수를 파이썬으로 안전하게 넘기기
+        # (위 run 블록 마지막에서 환경변수로 export)
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: auto-update repo cards"
+          git push
