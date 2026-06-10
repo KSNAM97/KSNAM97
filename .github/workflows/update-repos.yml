@@ -40,22 +40,26 @@ jobs:
               if not r["fork"] and r["name"] != user
           ]
 
-          lines, row = [], []
+                  cells = []
           for name in names:
               card = (
                   f'<a href="https://github.com/{user}/{name}">'
-                  f'<img width="400" '
+                  f'<img width="100%" '
                   f'src="https://github-readme-stats.vercel.app/api/pin/'
                   f'?username={user}&repo={name}&theme={theme}" /></a>'
               )
-              row.append(card)
-              if len(row) == 2:
-                  lines.append("".join(row))
-                  row = []
-          if row:
-              lines.append("".join(row))
+              cells.append(card)
 
-          cards = "\n".join(lines) if lines else "_아직 표시할 리포가 없습니다._"
+          if cells:
+              rows = []
+              for i in range(0, len(cells), 2):
+                  pair = cells[i:i+2]
+                  tds = "".join(f'<td width="50%" valign="top">{c}</td>' for c in pair)
+                  rows.append(f"<tr>{tds}</tr>")
+              cards = "<table>\n" + "\n".join(rows) + "\n</table>"
+          else:
+              cards = "_아직 표시할 리포가 없습니다._"
+
 
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
