@@ -25,8 +25,10 @@
 
 ---
 
-## 🛠 Tech Stack
 <div align="center">
+
+## 🛠 Tech Stack
+
   
 **🌐 Networking**  
 ![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -42,21 +44,26 @@
 
 ---
 
+<div align="center">
+
 ### 📌 Featured Labs
 
 <!-- REPO-LIST:START -->
-<div align="center">
 
 <a href="https://github.com/KSNAM97/Cisco-Switch-L3-Study"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=Cisco-Switch-L3-Study&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a>&nbsp;<a href="https://github.com/KSNAM97/CISCO-SWITCH-L2STUDY"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=CISCO-SWITCH-L2STUDY&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a><br><br><a href="https://github.com/KSNAM97/EIGRP-Multi-ISP-Network"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=EIGRP-Multi-ISP-Network&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a>&nbsp;<a href="https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KSNAM97&repo=OSPF-ACL-Multi-ISP-Network&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=10" /></a>
 
-</div>
+
 <!-- REPO-LIST:END -->
+
+</div>
 
 ---
 
+<div align="center">
+
+
 ### 📊 GitHub Stats
 
-<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSNAM97&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com?user=KSNAM97&theme=dark&hide_border=true)
@@ -67,9 +74,11 @@
 
 ---
 
+<div align="center">
+
 ### 📫 Visitors
 
-<div align="center">
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KSNAM97.KSNAM97&style=for-the-badge)
 
