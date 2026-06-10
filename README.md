@@ -27,7 +27,7 @@
 ![CLI](https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Network Simulation & Labs**
-![GNS3](https://img.shields.io/badge/GNS3-4080C0?style=for-the-badge&logo=gns3&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-00C0C0?style=for-the-badge&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 **Tools & Collaboration**
