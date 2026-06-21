@@ -41,6 +41,55 @@
 **🔧 Tools & Collaboration**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </div>
+---
+
+## 📚 Study Index
+
+<details>
+<summary><b>🌐 네트워크 기초</b></summary>
+
+- [Network Basics](https://github.com/KSNAM97/NETWORK-BASIC-STUDY) — OSI 7계층, TCP 3-Way Handshake, ARP/ICMP
+- [Router Basics](https://github.com/KSNAM97/Cisco-Router-Basic-Study) — Mode / Interface / CDP / Password / Routing
+- [Frame Relay](https://github.com/KSNAM97/Frame-Relay-Basic-Study) — Frame-Relay 기본 구성
+
+</details>
+
+<details>
+<summary><b>🔀 라우팅 (Routing)</b></summary>
+
+- [Router L3 (WAN)](https://github.com/KSNAM97/CISCO-ROUTER-L3STUDY) — NAT / DHCP / Telnet / SSH / NTP
+- [EIGRP Advanced](https://github.com/KSNAM97/EIGRP-Advanced-Study) — Summary / Offset-list / SIA / Timer
+- [OSPF Advanced](https://github.com/KSNAM97/OSPF-Advanced-Study) — LSA-Type / Stub / NSSA / Summary
+- [GRE Tunnel](https://github.com/KSNAM97/GRE-Tunnel-Study) — GRE 터널 + FR + OSPF/EIGRP + NAT
+- [Route Filtering](https://github.com/KSNAM97/Route-Filtering-Study) — Prefix-list / Distribute-list / Route-map
+- [Redistribute](https://github.com/KSNAM97/Redistribute-Study) — 라우팅 재분배
+
+</details>
+
+<details>
+<summary><b>🔁 스위칭 (Switching)</b></summary>
+
+- [Switch L2](https://github.com/KSNAM97/CISCO-SWITCH-L2STUDY) — VLAN / VTP / STP
+- [Switch L3](https://github.com/KSNAM97/Cisco-Switch-L3-Study) — SVI / Inter-VLAN / EIGRP / OSPF
+
+</details>
+
+<details>
+<summary><b>🔒 보안 (Security)</b></summary>
+
+- [ACL Advanced](https://github.com/KSNAM97/ACL-Advanced-Study) — Extended / Reflective / Dynamic / Time-range / TCP Intercept
+
+</details>
+
+<details>
+<summary><b>🏢 통합 실습 프로젝트</b></summary>
+
+- [EIGRP Multi-ISP](https://github.com/KSNAM97/EIGRP-Multi-ISP-Network) — EIGRP AS 100 멀티 ISP 경로 요약
+- [OSPF + ACL Multi-ISP](https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network) — OSPF + ACL 멀티 ISP
+- [Campus Network](https://github.com/KSNAM97/Campus-VLAN-OSPF-NTP-Security-) — EtherChannel / VTP / STP / SVI / Inter-VLAN / OSPF / NTP / DoS
+
+</details>
+
 
 ---
 
