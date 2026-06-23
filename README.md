@@ -60,9 +60,8 @@
 - [Router L3 (WAN)](https://github.com/KSNAM97/CISCO-ROUTER-L3STUDY) — NAT / DHCP / Telnet / SSH / NTP
 - [EIGRP Advanced](https://github.com/KSNAM97/EIGRP-Advanced-Study) — Summary / Offset-list / SIA / Timer
 - [OSPF Advanced](https://github.com/KSNAM97/OSPF-Advanced-Study) — LSA-Type / Stub / NSSA / Summary
-- [GRE Tunnel](https://github.com/KSNAM97/GRE-Tunnel-Study) — GRE 터널 + FR + OSPF/EIGRP + NAT
-- [Route Filtering](https://github.com/KSNAM97/Route-Filtering-Study) — Prefix-list / Distribute-list / Route-map
-- [Redistribute](https://github.com/KSNAM97/Redistribute-Study) — 라우팅 재분배
+- [Route Filtering](https://github.com/KSNAM97/Route-Filtering-Study) — Prefix-list / Distribute-list / Route-map / Passive-interface
+- [Redistribute](https://github.com/KSNAM97/Redistribute-Study) — OSPF / EIGRP / RIP / Static 간 재분배, metric / route-map 제어
 
 </details>
 
@@ -70,27 +69,34 @@
 <summary><b>🔁 스위칭 (Switching)</b></summary>
 
 - [Switch L2](https://github.com/KSNAM97/CISCO-SWITCH-L2STUDY) — VLAN / VTP / STP
-- [Switch L3](https://github.com/KSNAM97/Cisco-Switch-L3-Study) — SVI / Inter-VLAN / EIGRP / OSPF
+- [Switch L3](https://github.com/KSNAM97/Cisco-Switch-L3-Study) — Routed Port / SVI / Inter-VLAN Routing / EIGRP / OSPF
+
+</details>
+
+<details>
+<summary><b>🔐 VPN & Tunneling</b></summary>
+
+- [GRE Tunnel](https://github.com/KSNAM97/GRE-Tunnel-Study) — Point-to-Point GRE 터널 구성 및 터널 라우팅 (OSPF/EIGRP + NAT)
+- [GRE over IPsec](https://github.com/KSNAM97/GRE-GRE-Over-IPsec-Basic-Study) — Site-to-Site VPN / Tunnel Mode / Transport Mode / Static & Dynamic Routing
+- [IPsec Network Security Lab](https://github.com/KSNAM97/IPsec-Network-Security-Lab) — IPsec VPN + 암호 시스템 이론 정리
 
 </details>
 
 <details>
 <summary><b>🔒 보안 (Security)</b></summary>
 
-- [ACL Advanced](https://github.com/KSNAM97/ACL-Advanced-Study) — Extended / Reflective / Dynamic / Time-range / TCP Intercept
+- [ACL Advanced](https://github.com/KSNAM97/ACL-Advanced-Study) — Standard / Extended / Named ACL, 와일드카드 마스크, 트래픽 필터링
 - [Port Security](https://github.com/KSNAM97/cisco-port-security) — MAC 기반 포트 접근 제어, Violation 모드(protect/restrict/shutdown), Sticky
-- [CBAC](https://github.com/KSNAM97/CBAC-Context-Based-Access-Control) — Cisco IOS Stateful 방화벽, Context-Based Access Control Traffic Filtering
-- [IPsec Network Security Lab](https://github.com/KSNAM97/IPsec-Network-Security-Lab) — IPsec VPN / NAT / CBAC / Reflexive ACL + 암호 시스템 이론
-- [GRE over IPsec](https://github.com/KSNAM97/GRE-GRE-Over-IPsec-Basic-Study) — GRE Tunnel & GRE-Over-IPsec (Site-to-Site VPN / Tunnel & Transport Mode)
+- [CBAC (Context-Based Access Control)](https://github.com/KSNAM97/CBAC-Context-Based-Access-Control) — Cisco IOS Stateful 방화벽 기반 Traffic Filtering 보안 솔루션
 
 </details>
 
 <details>
 <summary><b>🏢 통합 실습 프로젝트</b></summary>
 
-- [EIGRP Multi-ISP](https://github.com/KSNAM97/EIGRP-Multi-ISP-Network) — EIGRP AS 100 멀티 ISP 경로 요약
-- [OSPF + ACL Multi-ISP](https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network) — OSPF + ACL 멀티 ISP
-- [Campus Network](https://github.com/KSNAM97/Campus-VLAN-OSPF-NTP-Security) — EtherChannel / VTP / STP / SVI / Inter-VLAN / OSPF / NTP / DoS
+- [EIGRP Multi-ISP](https://github.com/KSNAM97/EIGRP-Multi-ISP-Network) — EIGRP AS 100 기반 Multi-ISP 백본 + Route Summarization
+- [OSPF + ACL Multi-ISP](https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network) — OSPF Multi-ISP 백본 + ACL 실습
+- [Campus Network](https://github.com/KSNAM97/Campus-VLAN-OSPF-NTP-Security) — L2+L3+OSPF+NTP+Security 종합 (EtherChannel / VTP / STP / SVI / Inter-VLAN / DoS 방어)
 
 </details>
 
