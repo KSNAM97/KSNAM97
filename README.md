@@ -15,11 +15,12 @@
 
 - 💼 PC/OA Support → Network / Infra Engineer 전환 준비 중
 - 🛠 GNS3 · Cisco IOS 로 라우팅 / 스위칭 / 보안 랩 구성
-- 📚 이론은 **Notion**, 실습은 **GitHub** 로 관리
+- 📚 이론은 **[Notion Portfolio](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)**, 실습은 **[GitHub](https://github.com/KSNAM97)** 로 관리
 - 🎯 Goal : Network + Linux + Cloud Infra Engineer
 
 📧 nks026400@gmail.com  
-📝 Portfolio (Notion) : *[링크](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)*
+📝 **[📖 전체 포트폴리오 보기 (Notion)](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)**
+
 
 ---
 
