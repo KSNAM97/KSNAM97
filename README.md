@@ -1,13 +1,11 @@
 <div align="center">
 
 # 👋 Hi, I'm KiSuk Nam
-
 ### 🌐 Aspiring Network & Infra Engineer
 
-Hands-on labs with **GNS3 / Cisco IOS**, expanding into **Linux · Docker · K8s · Cloud**  
-GNS3 / Cisco IOS 기반 네트워크 실습 → Linux · Docker · K8s · Cloud 로 확장 중
-
-"Learning by **building & breaking** — not just theory."
+[![Portfolio](https://img.shields.io/badge/📖_Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)
+[![Email](https://img.shields.io/badge/Email-nks026400@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nks026400@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KSNAM97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KSNAM97)
 
 </div>
 
