@@ -1,83 +1,77 @@
 <div align="center">
 
-# 👋 Hi there, I'm KiSukNam
+# 👋 Hi, I'm KiSuk Nam
 
-### 🌐 Aspiring Network Engineer | 네트워크 엔지니어 지망생
+### 🌐 Aspiring Network & Infra Engineer
 
-<br>
+Hands-on labs with **GNS3 / Cisco IOS**, expanding into **Linux · Docker · K8s · Cloud**  
+GNS3 / Cisco IOS 기반 네트워크 실습 → Linux · Docker · K8s · Cloud 로 확장 중
 
-🛠️ Hands-on labs with **GNS3** — Routing, Switching, and more  
-📚 Building my **network engineering portfolio** through real lab projects  
-🎯 Learning by **building & breaking** networks, not just theory  
-💼 Background in **PC/OA Support**, transitioning to networking  
-  
-
-<br>
-
-🛠️ GNS3 기반 네트워크 실습 진행 중  
-📚 실제 LAB 프로젝트로 포트폴리오 구축 중  
-🎯 이론보다 직접 구성하고 트러블슈팅하며 학습  
-💼 PC/OA 지원 경력 → 네트워크 분야로 전환 중  
-
-<br>
+"Learning by **building & breaking** — not just theory."
 
 </div>
 
 ---
 
-<div align="center">
+## 👤 About Me
+
+- 💼 PC/OA Support → Network / Infra Engineer 전환 준비 중
+- 🛠 GNS3 · Cisco IOS 로 라우팅 / 스위칭 / 보안 랩 구성
+- 📚 이론은 **Notion**, 실습은 **GitHub** 로 관리
+- 🎯 Goal : Network + Linux + Cloud Infra Engineer
+
+📧 nks026400@gmail.com  
+📝 Portfolio (Notion) : *[링크](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)*
+
+---
 
 ## 🛠 Tech Stack
 
-  
 **🌐 Networking**  
 ![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**🧪 Network Simulation & Labs**  
+**🧪 Simulation & Labs**  
 ![GNS3](https://img.shields.io/badge/GNS3-4080C0?style=for-the-badge&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-**🔧 Tools & Collaboration**  
+**🐧 Linux / Infra** *(learning)*  
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**🔧 Tools**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-</div>
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
 ---
 
+## 🏢 Featured Labs
 
+| Lab | 내용 |
+|---|---|
+| [EIGRP Multi-ISP](https://github.com/KSNAM97/EIGRP-Multi-ISP-Network)              | EIGRP AS 100 Multi-ISP 백본 + Route Summarization |
+| [OSPF + ACL Multi-ISP](https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network)      | OSPF Multi-ISP 백본 + ACL 실습 |
+| [Campus Network](https://github.com/KSNAM97/Campus-VLAN-OSPF-NTP-Security)         | L2 + L3 + OSPF + NTP + Security 종합 (EtherChannel / VTP / STP / SVI / Inter-VLAN / DoS) |
 
-<details>
-<summary><b>🏢 통합 실습 프로젝트</b></summary>
+---
 
-- [EIGRP Multi-ISP](https://github.com/KSNAM97/EIGRP-Multi-ISP-Network) — EIGRP AS 100 기반 Multi-ISP 백본 + Route Summarization
-- [OSPF + ACL Multi-ISP](https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network) — OSPF Multi-ISP 백본 + ACL 실습
-- [Campus Network](https://github.com/KSNAM97/Campus-VLAN-OSPF-NTP-Security) — L2+L3+OSPF+NTP+Security 종합 (EtherChannel / VTP / STP / SVI / Inter-VLAN / DoS 방어)
+## 🗺 Learning Roadmap
 
-</details>
+`Network (GNS3/Cisco)` → `Linux` → `Docker` → `Kubernetes` → `Ansible` → `Cloud`
 
 ---
 
 <div align="center">
-
-
-
 
 ### 📊 GitHub Stats
 
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KSNAM97&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=KSNAM97&theme=dark&hide_border=true)  
 ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
-</div>
-
----
-
-<div align="center">
-
 ### 📫 Visitors
-
-
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KSNAM97.KSNAM97&style=for-the-badge)
 
 </div>
