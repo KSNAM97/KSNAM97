@@ -1,11 +1,19 @@
 <div align="center">
 
 # 👋 Hi, I'm KiSuk Nam
+
 ### 🌐 Aspiring Network & Infra Engineer
 
 [![Portfolio](https://img.shields.io/badge/📖_Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)
-[![Email](https://img.shields.io/badge/Email-nks026400@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nks026400@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nks026400@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KSNAM97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KSNAM97)
+
+<br>
+
+Hands-on labs with **GNS3 / Cisco IOS**, expanding into **Linux · Docker · K8s · Cloud**  
+GNS3 / Cisco IOS 기반 네트워크 실습 → Linux · Docker · K8s · Cloud 로 확장 중
+
+*"Learning by **building & breaking** — not just theory."*
 
 </div>
 
@@ -17,10 +25,6 @@
 - 🛠 GNS3 · Cisco IOS 로 라우팅 / 스위칭 / 보안 랩 구성
 - 📚 이론은 **[Notion Portfolio](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)**, 실습은 **[GitHub](https://github.com/KSNAM97)** 로 관리
 - 🎯 Goal : Network + Linux + Cloud Infra Engineer
-
-📧 nks026400@gmail.com  
-📝 **[📖 전체 포트폴리오 보기 (Notion)](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)**
-
 
 ---
 
@@ -47,13 +51,29 @@
 
 ---
 
+## 📚 Portfolio Index
+
+전체 학습 정리는 **[📖 Notion Portfolio Hub](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)** 에서 확인하실 수 있습니다.
+
+| 카테고리 | 내용 | 위치 |
+|---|---|---|
+| 📗 Network Theory | OSI, 라우팅 / 스위칭, ACL, VPN | Notion |
+| 📘 Linux Study    | 명령어, 파일관리, VI, 시스템 설정 | Notion |
+| 🐳 Docker         | 이미지, 컨테이너, 네트워크, 볼륨 | Notion |
+| ☸ Kubernetes      | Pod, Service, Deployment, Ingress | Notion |
+| 🤖 Ansible        | Playbook, Inventory, Role | Notion |
+| ☁ Cloud           | VPC, EC2, IAM, 네트워크 구성 | Notion |
+| 💻 Hands-on Labs  | GNS3 / Cisco / Infra 실습 결과물 | GitHub |
+
+---
+
 ## 🏢 Featured Labs
 
 | Lab | 내용 |
 |---|---|
-| [EIGRP Multi-ISP](https://github.com/KSNAM97/EIGRP-Multi-ISP-Network)              | EIGRP AS 100 Multi-ISP 백본 + Route Summarization |
-| [OSPF + ACL Multi-ISP](https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network)      | OSPF Multi-ISP 백본 + ACL 실습 |
-| [Campus Network](https://github.com/KSNAM97/Campus-VLAN-OSPF-NTP-Security)         | L2 + L3 + OSPF + NTP + Security 종합 (EtherChannel / VTP / STP / SVI / Inter-VLAN / DoS) |
+| [EIGRP Multi-ISP](https://github.com/KSNAM97/EIGRP-Multi-ISP-Network) | EIGRP AS 100 Multi-ISP 백본 + Route Summarization |
+| [OSPF + ACL Multi-ISP](https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network) | OSPF Multi-ISP 백본 + ACL 실습 |
+| [Campus Network](https://github.com/KSNAM97/Campus-VLAN-OSPF-NTP-Security) | L2 + L3 + OSPF + NTP + Security 종합 (EtherChannel / VTP / STP / SVI / Inter-VLAN / DoS) |
 
 ---
 
@@ -67,10 +87,12 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KSNAM97&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=KSNAM97&theme=dark&hide_border=true)
+
 ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### 📫 Visitors
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KSNAM97.KSNAM97&style=for-the-badge)
 
 </div>
