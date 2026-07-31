@@ -91,6 +91,8 @@ GNS3 / Cisco IOS 기반 네트워크 실습 → Linux · Docker · K8s · Cloud 
 
 ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSNAM97&layout=compact&theme=dark&count_private=true)
+
 ### 📫 Visitors
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KSNAM97.KSNAM97&style=for-the-badge)
