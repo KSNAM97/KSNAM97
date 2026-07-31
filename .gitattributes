@@ -1,0 +1,11 @@
+# ========================================================
+# GitHub Linguist Language Overrides for KSNAM97 Profile
+# ========================================================
+
+# 마크다운 분석 대상 강제 포함
+*.md linguist-detectable=true
+*.md linguist-vendored=false
+*.md linguist-documentation=false
+
+# [Shell] - SVG 파일
+*.svg linguist-language=Shell
