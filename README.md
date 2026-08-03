@@ -63,7 +63,7 @@ GNS3 / Cisco IOS 기반 네트워크 실습 → Linux · Docker · K8s · Cloud 
 | ☸ Kubernetes      | Pod, Service, Deployment, Ingress | Notion |
 | 🤖 Ansible        | Playbook, Inventory, Role | Notion |
 | ☁ Cloud           | VPC, EC2, IAM, 네트워크 구성 | Notion |
-| 💻 Hands-on Labs  | GNS3 / Cisco / Infra 실습 결과물 | GitHub |
+| 💻 Hands-on Labs  | GNS3 / Cisco / Infra 실습 결과물 | [GitHub](https://github.com/KSNAM97?tab=repositories) |
 
 ---
 
