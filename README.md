@@ -57,8 +57,8 @@ GNS3 / Cisco IOS 기반 네트워크 실습 → Linux · Docker · K8s · Cloud 
 
 | 카테고리 | 내용 | 위치 |
 |---|---|---|
-| 📗 Network Theory | OSI, 라우팅 / 스위칭, ACL, VPN | Notion |
-| 📘 Linux Study    | 명령어, 파일관리, VI, 시스템 설정 | Notion |
+| 📗 Network Theory | OSI, 라우팅 / 스위칭, ACL, VPN | [Notion ](https://app.notion.com/p/Network-3b0f603626cb81a08e8defd451dbea86?source=copy_link)|
+| 📘 Linux Study    | 명령어, 파일관리, VI, 시스템 설정 | [Notion](https://app.notion.com/p/System-3b0f603626cb81ee8db3f92139e98e2f?source=copy_link) |
 | 🐳 Docker         | 이미지, 컨테이너, 네트워크, 볼륨 | Notion |
 | ☸ Kubernetes      | Pod, Service, Deployment, Ingress | Notion |
 | 🤖 Ansible        | Playbook, Inventory, Role | Notion |
