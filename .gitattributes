@@ -1,11 +1,11 @@
 # ========================================================
-# GitHub Linguist Language Overrides for KSNAM97 Profile
+# Cisco CLI files mapping (Network & Infra)
 # ========================================================
 
-# 마크다운 분석 대상 강제 포함
-*.md linguist-detectable=true
-*.md linguist-vendored=false
-*.md linguist-documentation=false
+# 시스코 설정 파일(.cfg, .conf)들을 인프라(HCL) 언어로 인식시키기
+*.cfg linguist-language=HCL
+*.conf linguist-language=HCL
 
-# [Shell] - SVG 파일
-*.svg linguist-language=Shell
+# 시스코 스크립트나 명령어가 담긴 텍스트 파일들을 Shell로 인식시키기
+*.txt linguist-language=Shell
+*.ios linguist-language=HCL
