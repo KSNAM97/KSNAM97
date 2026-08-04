@@ -13,7 +13,7 @@
 *Shell*Script*/** linguist-language=Shell
 *Shell*Script*/** linguist-detectable=true
 
-# 3) HTML, DB -> HTML (DB 쿼리가 많다면 SQL로 변경 가능)
+# 3) HTML, DB -> HTML 
 *HTML*DB*/** linguist-language=HTML
 *HTML*DB*/** linguist-detectable=true
 
@@ -21,15 +21,15 @@
 *Docker*/** linguist-language=Dockerfile
 *Docker*/** linguist-detectable=true
 
-# 5) Kuberneties -> Go (쿠버네티스 생태계의 핵심 언어인 Go로 매핑!)
+# 5) Kuberneties -> Go (쿠버네티스 코어 언어)
 *Kuberneties*/** linguist-language=Go
 *Kuberneties*/** linguist-detectable=true
 
-# 6) Ansible -> Python (앤서블의 기반 언어)
+# 6) Ansible -> Python (앤서블 기반 언어)
 *Ansible*/** linguist-language=Python
 *Ansible*/** linguist-detectable=true
 
-# 7) AWS -> Python (AWS 자동화 스크립트 Boto3 느낌으로!)
+# 7) AWS -> Python (Boto3 스크립트 느낌)
 *AWS*/** linguist-language=Python
 *AWS*/** linguist-detectable=true
 
@@ -37,13 +37,19 @@
 *Terraform*/** linguist-language=HCL
 *Terraform*/** linguist-detectable=true
 
-# (기존 Network & System 폴더 유지)
+# 기존 Network & System
 *Network*/** linguist-language=HCL
 *Network*/** linguist-detectable=true
 *System*/** linguist-language=Shell
 *System*/** linguist-detectable=true
 
 # ========================================================
-# 3. 불필요한 파일 및 설정 폴더 제외
+# 3. 옵시디언(Obsidian) 설정 파일 포함 (웹/설정 스택 추가)
 # ========================================================
-.obsidian/** linguist-vendored
+# 테마 파일은 CSS로, 플러그인은 JS로, 설정은 JSON으로 인식!
+.obsidian/**/*.css linguist-language=CSS
+.obsidian/**/*.css linguist-detectable=true
+.obsidian/**/*.js linguist-language=JavaScript
+.obsidian/**/*.js linguist-detectable=true
+.obsidian/**/*.json linguist-language=JSON
+.obsidian/**/*.json linguist-detectable=true
