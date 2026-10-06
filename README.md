@@ -62,11 +62,11 @@ GNS3 / Cisco IOS 기반 네트워크 실습 → Linux · Docker · K8s · Cloud 
 |---|---|---|
 | 📗 Network Theory | OSI, 라우팅 / 스위칭, ACL, VPN | [Network Wiki](https://ksnam97.gitbook.io/network_wiki/) · [Network Guide](https://ksnam97.gitbook.io/network_guide/) |
 | 📘 Linux Study    | 명령어, 파일관리, VI, 시스템 설정 | [System](https://ksnam97.gitbook.io/system/) · [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
-| 🐳 Docker         | 이미지, 컨테이너, 네트워크, 볼륨 | [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
-| ☸ Kubernetes      | Pod, Service, Deployment, Ingress | [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
-| 🤖 Ansible        | Playbook, Inventory, Role | [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
-| ☁ Cloud           | VPC, EC2, IAM, 네트워크 구성 | [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
-| 💻 Hands-on Labs  | GNS3 / Cisco / Infra 실습 결과물 | [GitHub](https://github.com/KSNAM97?tab=repositories) |
+| 🐳 Docker         | 이미지, 컨테이너, 네트워크, 볼륨 | [System](https://ksnam97.gitbook.io/system/) · [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
+| ☸ Kubernetes      | Pod, Service, Deployment, Ingress | [System](https://ksnam97.gitbook.io/system/) · [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
+| 🤖 Ansible        | Playbook, Inventory, Role | [System](https://ksnam97.gitbook.io/system/) · [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
+| ☁ Cloud           | VPC, EC2, IAM, 네트워크 구성 | [System](https://ksnam97.gitbook.io/system/) · [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
+| 💻 Hands-on Labs  | GNS3 / Cisco / Infra 실습 결과물 |   [GitHub](https://github.com/KSNAM97?tab=repositories) |
 
 ---
 
