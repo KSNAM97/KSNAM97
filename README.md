@@ -4,7 +4,7 @@
 
 ### 🌐 Aspiring Network & Infra Engineer
 
-[![Portfolio](https://img.shields.io/badge/📖_Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)
+[![Wiki](https://img.shields.io/badge/📖_Wiki-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/network_wiki/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nks026400@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KSNAM97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KSNAM97)
 
@@ -23,7 +23,7 @@ GNS3 / Cisco IOS 기반 네트워크 실습 → Linux · Docker · K8s · Cloud 
 
 - 💼 PC/OA Support → Network / Infra Engineer 전환 준비 중
 - 🛠 GNS3 · Cisco IOS 로 라우팅 / 스위칭 / 보안 랩 구성
-- 📚 이론은 **[Notion Portfolio](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)**, 실습은 **[GitHub](https://github.com/KSNAM97)** 로 관리
+- 📚 이론은 **[GitBook](https://ksnam97.gitbook.io/network_wiki/)**, 실습은 **[GitHub](https://github.com/KSNAM97)** 로 관리
 - 🎯 Goal : Network + Linux + Cloud Infra Engineer
 
 ---
@@ -53,16 +53,16 @@ GNS3 / Cisco IOS 기반 네트워크 실습 → Linux · Docker · K8s · Cloud 
 
 ## 📚 Portfolio Index
 
-전체 학습 정리는 **[📖 Notion Portfolio Hub](https://positive-iodine-faf.notion.site/KiSuk-Nam-Network-Infra-Engineer-Portfolio-395f603626cb802b82e1c95c2f8a2a30)** 에서 확인하실 수 있습니다.
+이론 정리는 **GitBook** 에서, 실습 결과물은 **GitHub** 에서 확인하실 수 있습니다.
 
 | 카테고리 | 내용 | 위치 |
 |---|---|---|
-| 📗 Network Theory | OSI, 라우팅 / 스위칭, ACL, VPN | [Notion ](https://app.notion.com/p/Network-3b0f603626cb81a08e8defd451dbea86?source=copy_link)|
-| 📘 Linux Study    | 명령어, 파일관리, VI, 시스템 설정 | [Notion](https://app.notion.com/p/System-3b0f603626cb81ee8db3f92139e98e2f?source=copy_link) |
-| 🐳 Docker         | 이미지, 컨테이너, 네트워크, 볼륨 | Notion |
-| ☸ Kubernetes      | Pod, Service, Deployment, Ingress | Notion |
-| 🤖 Ansible        | Playbook, Inventory, Role | Notion |
-| ☁ Cloud           | VPC, EC2, IAM, 네트워크 구성 | Notion |
+| 📗 Network Theory | OSI, 라우팅 / 스위칭, ACL, VPN | [Network Wiki](https://ksnam97.gitbook.io/network_wiki/) · [Network Guide](https://ksnam97.gitbook.io/network_guide/) |
+| 📘 Linux Study    | 명령어, 파일관리, VI, 시스템 설정 | [System](https://ksnam97.gitbook.io/system/) · [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
+| 🐳 Docker         | 이미지, 컨테이너, 네트워크, 볼륨 | [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
+| ☸ Kubernetes      | Pod, Service, Deployment, Ingress | [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
+| 🤖 Ansible        | Playbook, Inventory, Role | [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
+| ☁ Cloud           | VPC, EC2, IAM, 네트워크 구성 | [System Wiki](https://ksnam97.gitbook.io/system_wiki/) |
 | 💻 Hands-on Labs  | GNS3 / Cisco / Infra 실습 결과물 | [GitHub](https://github.com/KSNAM97?tab=repositories) |
 
 ---
