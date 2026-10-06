@@ -4,7 +4,10 @@
 
 ### 🌐 Aspiring Network & Infra Engineer
 
-[![Wiki](https://img.shields.io/badge/📖_Wiki-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/network_wiki/)
+[![Network Wiki](https://img.shields.io/badge/📖_Network_Wiki-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/network_wiki/)
+[![Network Guide](https://img.shields.io/badge/📖_Network_Guide-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/network_guide/)
+[![System](https://img.shields.io/badge/📖_System-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/system/)
+[![System Wiki](https://img.shields.io/badge/📖_System_Wiki-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/system_wiki/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nks026400@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KSNAM97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KSNAM97)
 
@@ -23,7 +26,7 @@ GNS3 / Cisco IOS 기반 네트워크 실습 → Linux · Docker · K8s · Cloud 
 
 - 💼 PC/OA Support → Network / Infra Engineer 전환 준비 중
 - 🛠 GNS3 · Cisco IOS 로 라우팅 / 스위칭 / 보안 랩 구성
-- 📚 이론은 **[GitBook](https://ksnam97.gitbook.io/network_wiki/)**, 실습은 **[GitHub](https://github.com/KSNAM97)** 로 관리
+- 📚 이론은 GitBook ([Network Wiki](https://ksnam97.gitbook.io/network_wiki/) · [Network Guide](https://ksnam97.gitbook.io/network_guide/) · [System](https://ksnam97.gitbook.io/system/) · [System Wiki](https://ksnam97.gitbook.io/system_wiki/)), 실습은 **[GitHub](https://github.com/KSNAM97)** 로 관리
 - 🎯 Goal : Network + Linux + Cloud Infra Engineer
 
 ---
