@@ -5,9 +5,9 @@
 ### 🌐 Network & Infra Engineer를 준비하고 있습니다
 
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-ksnam97.com-000000?style=for-the-badge)](https://ksnam97.com)
-[![Network Guide](https://img.shields.io/badge/📖_Network_Guide_(책)-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/network_guide/)
+[![Network Guide](https://img.shields.io/badge/📖_Network_Guide-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/network_guide/)
 [![Network Wiki](https://img.shields.io/badge/🔎_Network_Wiki-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/network_wiki/)
-[![System Guide](https://img.shields.io/badge/📖_System_(책)-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/system/)
+[![System Guide](https://img.shields.io/badge/📖_System_Guide-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/system/)
 [![System Wiki](https://img.shields.io/badge/🔎_System_Wiki-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/system_wiki/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nks026400@gmail.com)
 
