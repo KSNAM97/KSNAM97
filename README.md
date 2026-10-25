@@ -4,7 +4,7 @@
 
 ### 🌐 Network Engineer를 준비하고 있습니다
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-ksnam97.com-000000?style=for-the-badge)](https://ksnam97.com)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-ksnam97.com-000000?style=for-the-badge)](https://www.ksnam97.com/)
 [![Network Guide](https://img.shields.io/badge/📖_Network_Guide-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/network_guide/)
 [![Network Wiki](https://img.shields.io/badge/🔎_Network_Wiki-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://ksnam97.gitbook.io/network_wiki/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nks026400@gmail.com)
@@ -56,6 +56,7 @@
 
 | 프로젝트 | 내용 |
 |---|---|
+| [🌍 Portfolio Site](https://www.ksnam97.com/) | 포트폴리오 사이트 바로가기 |
 | [Cisco DMVPN + IPsec](https://github.com/KSNAM97/cisco-dmvpn-ipsec-network) | DMVPN Phase 2/3 + IPsec, OSPF-EIGRP 재분배, HSRP 이중화, NAT 기반 본사-지사 WAN |
 | [Multi-vendor WAN DMVPN + MPLS Lab](https://github.com/KSNAM97/multivendor-wan-dmvpn-mpls-lab) | Cisco + Arista, DMVPN, ISP 이중화(dual-homing) |
 | [Multi-vendor EVPN + MPLS + IPsec Lab](https://github.com/KSNAM97/multivendor-evpn-mpls-ipsec-lab) | 멀티벤더 EVPN / MPLS / IPsec 실습 |
