@@ -57,7 +57,8 @@
 | 프로젝트 | 내용 |
 |---|---|
 | [Cisco DMVPN + IPsec](https://github.com/KSNAM97/cisco-dmvpn-ipsec-network) | DMVPN Phase 2/3 + IPsec, OSPF-EIGRP 재분배, HSRP 이중화, NAT 기반 본사-지사 WAN |
-| [Multi-vendor Hybrid Network](https://github.com/KSNAM97/network-project) | Cisco + Arista, DMVPN, ISP 이중화(dual-homing) |
+| [Multi-vendor WAN DMVPN + MPLS Lab](https://github.com/KSNAM97/multivendor-wan-dmvpn-mpls-lab) | Cisco + Arista, DMVPN, ISP 이중화(dual-homing) |
+| [Multi-vendor EVPN + MPLS + IPsec Lab](https://github.com/KSNAM97/multivendor-evpn-mpls-ipsec-lab) | 멀티벤더 EVPN / MPLS / IPsec 실습 |
 | [Campus Network](https://github.com/KSNAM97/Campus-VLAN-OSPF-NTP-Security) | L2 + L3 + OSPF + NTP + Security 종합 (EtherChannel / VTP / STP / SVI / Inter-VLAN / DoS) |
 | [IPsec Network Security Lab](https://github.com/KSNAM97/IPsec-Network-Security-Lab) | IPsec VPN, NAT, CBAC, Reflexive ACL + 통신 보안 이론 정리 |
 | [OSPF + ACL Multi-ISP](https://github.com/KSNAM97/OSPF-ACL-Multi-ISP-Network) | OSPF Multi-ISP 백본 + ACL 실습 |
